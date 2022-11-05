@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @syed-mesam-ali
 - 👀 I’m interested in JavaScript and React
 - 🌱 I’m currently learning Redux
+- 👤 Portfolio Link - https://syed-mesam-ali.netlify.app/
 - 📫 How to reach me : LinkedIn - https://www.linkedin.com/in/syed-mesam-ali/ or mail - syedmesamali@gmail.com
 
 <!---
