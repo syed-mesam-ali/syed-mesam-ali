@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript and React
 - 🌱 I’m currently learning Redux
 - 👤 Portfolio Link - [Syed Mesam Ali - Portfolio](https://syed-mesam-ali.netlify.app/)
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/syed-mesam-ali/) or [Email](syedmesamali@gmail.com)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/syed-mesam-ali/) or <a href="mailto:syedmesamali@gmail.com">Email</a> 
 
 ### **Skills:**  
 
